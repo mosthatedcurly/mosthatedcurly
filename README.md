@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**mosthatedcurly/mosthatedcurly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make roblox stuff. Oh, and also I post [youtube videos](https://www.youtube.com/@mosthatedcurly)
 
-Here are some ideas to get you started:
+<h3 align="left">
+  You can join the <a href='https://discord.gg/v9FrA5NUqd'>Discord</a> btw
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Say+BYE+FRON!)](https://git.io/typing-svg)
+
+
+![mosthatedcurly](https://github-readme-stats.vercel.app/api?username=mosthatedcurly&show_icons=true&theme=tokyonight&hide=["issues"])
+
+![mosthatedcurly](https://github-readme-stats.vercel.app/api/top-langs?username=mosthatedcurly&show_icons=true&theme=tokyonight&layout=compact)
