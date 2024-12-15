@@ -7,7 +7,7 @@ I make roblox stuff. Oh, and also I post [youtube videos](https://www.youtube.co
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Bold&pause=1000&color=F70000&width=435&lines=Say+BYEFron!;ngl+LUA+is+fun+lmao)](https://git.io/typing-svg)
 
-https://img.shields.io/badge/Languages%20I%use-8A2BE2
+### Languages I know
 - ![LUA](https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
