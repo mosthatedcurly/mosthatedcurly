@@ -3,7 +3,7 @@
 > [!TIP]
 > If you like one of my projects, star it! Stars help me stay motivated ❤️
 
-I'm "hatred", a 13-year-old programmer that just enjoys making a ton of side projects mainly roblox LUA exploits but also other coding languages for fun.
+I'm "hatred", a 13-year-old programmer that just enjoys making a ton of side projects mainly roblox LUA exploits but also making other projects with various coding languages for fun.
 > You can check out my most-favorable projects in this README (if available), or check out all of my repositories [here](https://github.com/mosthatedcurly?tab=repositories).
 
 ### Interests & Hobbies
